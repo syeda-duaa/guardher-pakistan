@@ -1,0 +1,8 @@
+streamlit>=1.31.0
+folium==0.14.0
+streamlit-folium==0.15.0
+pandas
+numpy
+scikit-learn==1.9.0
+joblib
+geopy

@@ -1,0 +1,195 @@
+latitude,longitude,incident_type,area_name,hour,timestamp,severity,time_period
+31.553674,74.342494,theft_attempt,Railway Station Area,19,2023-05-03 19:18:00,5,evening
+31.562334,74.349739,harassment,Railway Station Area,22,2023-10-22 22:01:00,4,night
+31.561399,74.35591,harassment,Railway Station Area,2,2023-03-01 02:41:00,5,night
+31.561425,74.341794,harassment,Railway Station Area,20,2023-05-12 20:36:00,5,evening
+31.545499,74.358902,harassment,Railway Station Area,22,2023-08-31 22:57:00,4,night
+31.555934,74.334791,stalking,Railway Station Area,23,2023-07-26 23:16:00,5,night
+31.539579,74.352336,stalking,Railway Station Area,18,2023-07-11 18:17:00,5,evening
+31.532273,74.335249,unsafe_area,Railway Station Area,23,2023-08-04 23:59:00,4,night
+31.551808,74.356734,stalking,Railway Station Area,21,2023-02-11 21:28:00,5,night
+31.534695,74.332666,harassment,Railway Station Area,2,2023-03-23 02:07:00,5,night
+31.553508,74.354029,unsafe_area,Railway Station Area,23,2023-07-21 23:07:00,5,night
+31.547734,74.337443,theft_attempt,Railway Station Area,22,2023-02-05 22:00:00,5,night
+31.552593,74.338439,theft_attempt,Railway Station Area,19,2023-12-26 19:26:00,4,evening
+31.544781,74.346263,stalking,Railway Station Area,12,2023-02-22 12:31:00,5,afternoon
+31.552081,74.335375,stalking,Railway Station Area,16,2023-06-10 16:06:00,5,afternoon
+31.55534,74.346487,stalking,Railway Station Area,16,2023-05-15 16:27:00,5,afternoon
+31.546947,74.349606,harassment,Railway Station Area,18,2023-08-14 18:00:00,4,evening
+31.538905,74.335447,harassment,Railway Station Area,18,2023-06-15 18:32:00,5,evening
+31.542444,74.337061,harassment,Railway Station Area,12,2023-06-30 12:48:00,5,afternoon
+31.549552,74.330212,harassment,Railway Station Area,12,2023-07-07 12:48:00,5,afternoon
+31.544427,74.343631,harassment,Railway Station Area,23,2023-05-07 23:01:00,4,night
+31.552419,74.343541,harassment,Railway Station Area,23,2023-07-04 23:58:00,4,night
+31.543285,74.354672,stalking,Railway Station Area,19,2023-08-29 19:15:00,4,evening
+31.549925,74.334023,theft_attempt,Railway Station Area,23,2023-12-13 23:02:00,5,night
+31.554893,74.333817,harassment,Railway Station Area,23,2023-12-05 23:39:00,4,night
+31.529754,74.365687,harassment,Liberty Market,18,2023-04-10 18:06:00,4,evening
+31.520504,74.361722,harassment,Liberty Market,22,2023-05-21 22:04:00,3,night
+31.519224,74.360145,harassment,Liberty Market,23,2023-06-02 23:53:00,3,night
+31.51496,74.360558,harassment,Liberty Market,22,2023-08-16 22:47:00,4,night
+31.512517,74.349948,stalking,Liberty Market,17,2023-06-19 17:35:00,3,evening
+31.520361,74.355633,harassment,Liberty Market,20,2023-05-16 20:02:00,3,evening
+31.523745,74.343608,stalking,Liberty Market,18,2023-08-27 18:29:00,4,evening
+31.520308,74.362007,unsafe_area,Liberty Market,17,2023-10-14 17:32:00,5,evening
+31.509149,74.358424,theft_attempt,Liberty Market,14,2023-07-12 14:48:00,3,afternoon
+31.520307,74.360225,harassment,Liberty Market,21,2023-02-07 21:23:00,3,night
+31.524186,74.358117,unsafe_area,Liberty Market,23,2023-09-11 23:20:00,5,night
+31.51951,74.344707,harassment,Liberty Market,18,2023-02-28 18:02:00,4,evening
+31.522248,74.352229,unsafe_area,Liberty Market,8,2023-10-01 08:39:00,3,morning
+31.523749,74.352875,stalking,Liberty Market,13,2023-12-22 13:49:00,3,afternoon
+31.514536,74.360263,harassment,Liberty Market,20,2023-11-18 20:07:00,4,evening
+31.522258,74.360109,harassment,Liberty Market,18,2023-10-16 18:22:00,5,evening
+31.520083,74.354423,stalking,Liberty Market,13,2023-02-28 13:21:00,3,afternoon
+31.513255,74.356021,stalking,Liberty Market,21,2023-04-14 21:03:00,4,night
+31.520765,74.353487,stalking,Liberty Market,20,2023-05-25 20:12:00,4,evening
+31.504199,74.360192,theft_attempt,Liberty Market,15,2023-02-28 15:54:00,4,afternoon
+31.55864,74.364126,stalking,Anarkali Bazaar,6,2023-08-28 06:33:00,4,morning
+31.556071,74.361823,stalking,Anarkali Bazaar,21,2023-10-06 21:28:00,5,night
+31.555293,74.352457,harassment,Anarkali Bazaar,10,2023-08-09 10:04:00,5,morning
+31.552701,74.372176,harassment,Anarkali Bazaar,19,2023-04-11 19:32:00,4,evening
+31.53864,74.346798,stalking,Anarkali Bazaar,18,2023-06-30 18:30:00,4,evening
+31.555068,74.375984,unsafe_area,Anarkali Bazaar,23,2023-09-16 23:48:00,5,night
+31.559463,74.36546,stalking,Anarkali Bazaar,10,2023-06-29 10:42:00,3,morning
+31.563696,74.360775,theft_attempt,Anarkali Bazaar,16,2023-01-13 16:30:00,4,afternoon
+31.550709,74.358861,harassment,Anarkali Bazaar,22,2023-04-26 22:40:00,5,night
+31.557456,74.351657,stalking,Anarkali Bazaar,21,2023-10-05 21:56:00,4,night
+31.568026,74.342204,stalking,Anarkali Bazaar,22,2023-04-07 22:23:00,5,night
+31.567023,74.353684,theft_attempt,Anarkali Bazaar,6,2023-03-04 06:19:00,3,morning
+31.560056,74.354718,harassment,Anarkali Bazaar,0,2023-03-18 00:08:00,5,night
+31.555429,74.359341,stalking,Anarkali Bazaar,20,2023-03-11 20:34:00,3,evening
+31.543075,74.359355,unsafe_area,Anarkali Bazaar,23,2023-04-20 23:52:00,4,night
+31.569109,74.360437,unsafe_area,Anarkali Bazaar,22,2023-09-11 22:37:00,5,night
+31.543084,74.354132,harassment,Anarkali Bazaar,22,2023-01-06 22:28:00,3,night
+31.558164,74.345506,unsafe_area,Anarkali Bazaar,21,2023-11-24 21:24:00,3,night
+31.465286,74.442081,poor_lighting,DHA Phase 5 Late Night,22,2023-06-17 22:26:00,3,night
+31.468181,74.431163,isolated_area,DHA Phase 5 Late Night,9,2023-11-14 09:40:00,4,morning
+31.474755,74.443462,harassment,DHA Phase 5 Late Night,17,2023-11-09 17:32:00,3,evening
+31.481471,74.428909,harassment,DHA Phase 5 Late Night,19,2023-05-30 19:15:00,3,evening
+31.477349,74.422669,poor_lighting,DHA Phase 5 Late Night,6,2023-01-15 06:14:00,4,morning
+31.482094,74.425586,harassment,DHA Phase 5 Late Night,22,2023-06-06 22:52:00,3,night
+31.469338,74.42036,isolated_area,DHA Phase 5 Late Night,20,2023-12-24 20:40:00,4,evening
+31.473334,74.446209,poor_lighting,DHA Phase 5 Late Night,21,2023-02-16 21:34:00,2,night
+31.469618,74.436391,isolated_area,DHA Phase 5 Late Night,22,2023-11-09 22:29:00,3,night
+31.460746,74.432717,isolated_area,DHA Phase 5 Late Night,22,2023-08-13 22:46:00,2,night
+31.481579,74.425778,isolated_area,DHA Phase 5 Late Night,21,2023-04-09 21:40:00,4,night
+31.472349,74.427325,isolated_area,DHA Phase 5 Late Night,23,2023-01-24 23:36:00,2,night
+31.577496,74.307207,harassment,Shahdara,21,2023-09-18 21:00:00,3,night
+31.552175,74.317854,theft_attempt,Shahdara,12,2023-02-24 12:43:00,3,afternoon
+31.575494,74.340314,stalking,Shahdara,22,2023-03-08 22:10:00,5,night
+31.581868,74.326421,unsafe_area,Shahdara,18,2023-10-14 18:14:00,5,evening
+31.58201,74.31637,stalking,Shahdara,19,2023-01-31 19:54:00,4,evening
+31.566373,74.319556,stalking,Shahdara,21,2023-07-25 21:42:00,5,night
+31.579017,74.319398,harassment,Shahdara,8,2023-01-09 08:03:00,3,morning
+31.579499,74.327641,theft_attempt,Shahdara,7,2023-02-21 07:18:00,3,morning
+31.575758,74.313657,harassment,Shahdara,6,2023-05-14 06:40:00,4,morning
+31.570252,74.310717,harassment,Shahdara,18,2023-08-28 18:55:00,4,evening
+31.576968,74.311523,harassment,Shahdara,21,2023-12-22 21:51:00,5,night
+31.586398,74.320552,harassment,Shahdara,22,2023-08-05 22:01:00,3,night
+31.583202,74.313724,theft_attempt,Shahdara,21,2023-10-02 21:57:00,4,night
+31.567148,74.321628,harassment,Shahdara,18,2023-02-09 18:56:00,3,evening
+31.574827,74.311348,harassment,Shahdara,21,2023-03-10 21:09:00,5,night
+31.491015,74.426183,isolated_area,LUMS Area at Night,23,2023-09-22 23:39:00,2,night
+31.477339,74.41734,poor_lighting,LUMS Area at Night,22,2023-11-12 22:44:00,3,night
+31.482211,74.413304,poor_lighting,LUMS Area at Night,9,2023-12-17 09:10:00,3,morning
+31.486771,74.404439,catcalling,LUMS Area at Night,8,2023-02-01 08:39:00,2,morning
+31.496522,74.408121,catcalling,LUMS Area at Night,21,2023-04-05 21:55:00,3,night
+31.497627,74.41046,isolated_area,LUMS Area at Night,19,2023-06-23 19:43:00,2,evening
+31.488884,74.400784,isolated_area,LUMS Area at Night,17,2023-05-21 17:46:00,2,evening
+31.481206,74.415182,isolated_area,LUMS Area at Night,9,2023-11-30 09:42:00,4,morning
+31.492212,74.40554,poor_lighting,LUMS Area at Night,9,2023-01-14 09:39:00,3,morning
+31.512519,74.403965,catcalling,LUMS Area at Night,10,2023-11-15 10:59:00,3,morning
+31.570969,74.353168,unsafe_area,Badami Bagh,8,2023-01-02 08:39:00,5,morning
+31.572255,74.363571,theft_attempt,Badami Bagh,21,2023-01-06 21:18:00,5,night
+31.573939,74.359948,harassment,Badami Bagh,18,2023-10-24 18:07:00,5,evening
+31.57242,74.360364,stalking,Badami Bagh,19,2023-05-24 19:32:00,4,evening
+31.558316,74.345093,stalking,Badami Bagh,8,2023-02-09 08:50:00,5,morning
+31.569322,74.362551,harassment,Badami Bagh,10,2023-10-17 10:51:00,5,morning
+31.569455,74.359986,harassment,Badami Bagh,16,2023-10-17 16:03:00,5,afternoon
+31.567586,74.372728,theft_attempt,Badami Bagh,10,2023-06-09 10:46:00,4,morning
+31.565841,74.35017,theft_attempt,Badami Bagh,9,2023-11-29 09:44:00,5,morning
+31.568218,74.356919,stalking,Badami Bagh,23,2023-03-11 23:19:00,5,night
+31.567104,74.360611,harassment,Badami Bagh,18,2023-10-30 18:42:00,5,evening
+31.569444,74.379149,stalking,Badami Bagh,3,2023-06-21 03:11:00,4,night
+31.569735,74.361537,harassment,Badami Bagh,18,2023-02-21 18:28:00,5,evening
+31.560083,74.356994,unsafe_area,Badami Bagh,22,2023-11-10 22:00:00,5,night
+31.559563,74.352164,stalking,Badami Bagh,17,2023-05-18 17:09:00,4,evening
+31.574818,74.339434,unsafe_area,Badami Bagh,13,2023-12-14 13:16:00,5,afternoon
+31.571774,74.345762,harassment,Badami Bagh,0,2023-06-27 00:28:00,5,night
+31.560745,74.352235,harassment,Badami Bagh,17,2023-03-26 17:40:00,4,evening
+31.576859,74.359408,stalking,Badami Bagh,6,2023-08-13 06:12:00,5,morning
+31.56174,74.363394,unsafe_area,Badami Bagh,16,2023-11-02 16:44:00,4,afternoon
+31.588559,74.349143,harassment,Badami Bagh,23,2023-07-14 23:53:00,4,night
+31.577969,74.341413,harassment,Badami Bagh,10,2023-02-25 10:38:00,5,morning
+31.51874,74.303777,stalking,Ravi Road,19,2023-02-25 19:27:00,4,evening
+31.527945,74.318194,stalking,Ravi Road,14,2023-09-13 14:07:00,4,afternoon
+31.5365,74.294954,unsafe_area,Ravi Road,20,2023-10-19 20:31:00,4,evening
+31.539998,74.313363,unsafe_area,Ravi Road,22,2023-08-12 22:54:00,4,night
+31.532609,74.299991,stalking,Ravi Road,23,2023-07-17 23:19:00,5,night
+31.524365,74.298732,stalking,Ravi Road,16,2023-10-21 16:37:00,4,afternoon
+31.537598,74.307112,harassment,Ravi Road,21,2023-07-22 21:29:00,5,night
+31.530914,74.311202,stalking,Ravi Road,5,2023-01-10 05:39:00,4,night
+31.519215,74.315946,harassment,Ravi Road,22,2023-01-30 22:44:00,4,night
+31.516963,74.314415,stalking,Ravi Road,22,2023-03-18 22:22:00,3,night
+31.542964,74.322564,theft_attempt,Ravi Road,10,2023-07-10 10:57:00,4,morning
+31.527216,74.311588,stalking,Ravi Road,16,2023-09-25 16:39:00,5,afternoon
+31.54073,74.30293,harassment,Ravi Road,18,2023-02-25 18:46:00,4,evening
+31.529602,74.301047,harassment,Ravi Road,19,2023-08-16 19:51:00,5,evening
+31.532997,74.301609,stalking,Ravi Road,12,2023-05-10 12:24:00,3,afternoon
+31.524984,74.3245,harassment,Ravi Road,21,2023-04-19 21:43:00,5,night
+31.534974,74.297438,harassment,Ravi Road,8,2023-11-02 08:16:00,4,morning
+31.53174,74.325567,harassment,Ravi Road,23,2023-09-22 23:30:00,3,night
+31.516438,74.347442,isolated_area,Mozang,22,2023-03-31 22:11:00,4,night
+31.507733,74.340976,catcalling,Mozang,0,2023-10-10 00:20:00,3,night
+31.501352,74.348425,harassment,Mozang,23,2023-03-24 23:30:00,3,night
+31.509465,74.334691,isolated_area,Mozang,18,2023-06-09 18:23:00,4,evening
+31.503154,74.361935,catcalling,Mozang,18,2023-07-03 18:22:00,4,evening
+31.513301,74.324563,catcalling,Mozang,13,2023-06-11 13:15:00,2,afternoon
+31.499204,74.344684,poor_lighting,Mozang,22,2023-09-09 22:54:00,2,night
+31.515707,74.340376,catcalling,Mozang,21,2023-11-15 21:52:00,2,night
+31.497157,74.344543,isolated_area,Mozang,9,2023-03-07 09:29:00,2,morning
+31.507597,74.333562,poor_lighting,Mozang,16,2023-06-03 16:47:00,2,afternoon
+31.508039,74.332935,poor_lighting,Mozang,21,2023-03-03 21:36:00,4,night
+31.512192,74.340402,catcalling,Mozang,18,2023-11-30 18:33:00,2,evening
+31.509223,74.340435,isolated_area,Mozang,22,2023-09-01 22:44:00,3,night
+31.504898,74.335752,poor_lighting,Mozang,8,2023-09-20 08:04:00,2,morning
+31.500007,74.344572,isolated_area,Mozang,17,2023-03-03 17:58:00,3,evening
+31.525353,74.425339,harassment,Gulberg Evening,23,2023-09-27 23:55:00,2,night
+31.558859,74.407503,isolated_area,Gulberg Evening,6,2023-11-20 06:58:00,2,morning
+31.542287,74.402676,catcalling,Gulberg Evening,19,2023-08-15 19:23:00,4,evening
+31.540365,74.394952,harassment,Gulberg Evening,9,2023-03-23 09:49:00,2,morning
+31.560215,74.395753,catcalling,Gulberg Evening,13,2023-02-10 13:26:00,2,afternoon
+31.544671,74.397126,catcalling,Gulberg Evening,21,2023-03-01 21:58:00,2,night
+31.530649,74.39406,harassment,Gulberg Evening,8,2023-07-08 08:06:00,2,morning
+31.537037,74.393332,catcalling,Gulberg Evening,9,2023-09-16 09:13:00,2,morning
+31.538194,74.400027,poor_lighting,Gulberg Evening,17,2023-08-22 17:16:00,4,evening
+31.53823,74.401518,poor_lighting,Gulberg Evening,0,2023-08-13 00:33:00,4,night
+31.530517,74.396809,catcalling,Gulberg Evening,22,2023-11-21 22:26:00,2,night
+31.546015,74.407815,isolated_area,Gulberg Evening,8,2023-07-30 08:49:00,3,morning
+31.585529,74.383018,theft_attempt,Harbanspura,2,2023-02-03 02:05:00,5,night
+31.602524,74.379474,theft_attempt,Harbanspura,18,2023-08-15 18:28:00,3,evening
+31.600389,74.380861,harassment,Harbanspura,23,2023-03-26 23:21:00,5,night
+31.588221,74.370824,unsafe_area,Harbanspura,19,2023-03-26 19:05:00,5,evening
+31.597183,74.378347,harassment,Harbanspura,12,2023-10-09 12:23:00,4,afternoon
+31.589343,74.388938,unsafe_area,Harbanspura,6,2023-04-04 06:52:00,5,morning
+31.603012,74.36015,harassment,Harbanspura,21,2023-01-25 21:59:00,4,night
+31.599994,74.383931,stalking,Harbanspura,6,2023-08-25 06:19:00,3,morning
+31.589679,74.368554,harassment,Harbanspura,17,2023-12-11 17:07:00,5,evening
+31.605703,74.37692,harassment,Harbanspura,22,2023-02-02 22:10:00,3,night
+31.592064,74.383753,theft_attempt,Harbanspura,9,2023-02-16 09:31:00,5,morning
+31.609216,74.379819,theft_attempt,Harbanspura,20,2023-08-31 20:59:00,3,evening
+31.582989,74.380301,harassment,Harbanspura,3,2023-06-04 03:21:00,5,night
+31.591563,74.371499,theft_attempt,Harbanspura,22,2023-04-17 22:54:00,3,night
+31.591685,74.387042,stalking,Harbanspura,17,2023-07-24 17:07:00,4,evening
+31.600122,74.384475,stalking,Harbanspura,19,2023-03-26 19:15:00,4,evening
+31.478416,74.370538,isolated_area,Canal Road Isolated,18,2023-01-15 18:10:00,3,evening
+31.471747,74.355766,catcalling,Canal Road Isolated,23,2023-10-28 23:17:00,3,night
+31.472534,74.366027,harassment,Canal Road Isolated,23,2023-07-22 23:50:00,4,night
+31.476701,74.348704,poor_lighting,Canal Road Isolated,21,2023-12-17 21:20:00,4,night
+31.48905,74.357802,isolated_area,Canal Road Isolated,22,2023-01-21 22:59:00,3,night
+31.481796,74.368377,isolated_area,Canal Road Isolated,22,2023-12-02 22:33:00,3,night
+31.472894,74.349096,isolated_area,Canal Road Isolated,17,2023-08-14 17:34:00,3,evening
+31.483952,74.362085,poor_lighting,Canal Road Isolated,13,2023-10-21 13:04:00,3,afternoon
+31.466796,74.359597,catcalling,Canal Road Isolated,20,2023-08-20 20:24:00,3,evening
+31.482146,74.354291,poor_lighting,Canal Road Isolated,19,2023-08-18 19:04:00,4,evening
+31.493734,74.372301,isolated_area,Canal Road Isolated,14,2023-01-11 14:02:00,3,afternoon

@@ -1,0 +1,73 @@
+name,latitude,longitude,category
+Race Course Police Station,31.5275,74.3364,police
+Gulberg Police Station,31.5094,74.3426,police
+Garden Town Police Station,31.504,74.3282,police
+Anarkali Police Station,31.5602,74.3134,police
+Cantt Police Station,31.5497,74.395,police
+Model Town Police Station,31.4739,74.3239,police
+DHA Police Station,31.4706,74.4312,police
+Johar Town Police Station,31.47,74.3012,police
+Shadman Police Station,31.53,74.32,police
+Samanabad Police Station,31.56,74.31,police
+Data Darbar Police Station,31.568,74.31,police
+Ichhra Police Station,31.52,74.31,police
+Mozang Police Station,31.535,74.325,police
+Ravi Road Police Station,31.58,74.34,police
+Nishtar Colony Police,31.51,74.305,police
+Services Hospital,31.52,74.329,hospital
+Mayo Hospital,31.5633,74.3128,hospital
+Jinnah Hospital,31.5204,74.29,hospital
+Shaukat Khanum Hospital,31.47,74.405,hospital
+Hameed Latif Hospital,31.51,74.34,hospital
+Central Park Hospital,31.48,74.31,hospital
+Doctors Hospital,31.496,74.3226,hospital
+Ittefaq Hospital,31.5297,74.3403,hospital
+Sir Ganga Ram Hospital,31.555,74.32,hospital
+General Hospital Lahore,31.548,74.309,hospital
+Lahore General Hospital,31.55,74.315,hospital
+Ihsan Mumtaz Hospital,31.5,74.35,hospital
+Gulberg Clinic,31.512,74.345,clinic
+DHA Clinic,31.48,74.41,clinic
+Model Town Clinic,31.475,74.33,clinic
+Johar Town Clinic,31.465,74.305,clinic
+Garden Town Clinic,31.505,74.33,clinic
+D Watson Gulberg,31.513,74.346,pharmacy
+D Watson DHA,31.475,74.408,pharmacy
+Fazal Din Pharmacy Liberty,31.521,74.359,pharmacy
+Fazal Din Pharmacy Cantt,31.55,74.39,pharmacy
+Al-Shifa Pharmacy,31.53,74.33,pharmacy
+Liberty Chowk Stop,31.5204,74.3587,bus_stop
+Kalma Chowk Stop,31.5094,74.3426,bus_stop
+Ferozepur Road Stop,31.504,74.31,bus_stop
+MM Alam Road Stop,31.5175,74.352,bus_stop
+Canal Road Stop,31.49,74.34,bus_stop
+Lahore Railway Station,31.5534,74.3178,bus_stop
+Thokar Niaz Baig,31.43,74.29,bus_stop
+Chungi Amar Sadhu,31.59,74.32,bus_stop
+Chauburji Stop,31.545,74.32,bus_stop
+Masson Road Stop,31.558,74.31,bus_stop
+Gulshan Ravi Stop,31.57,74.33,bus_stop
+Shahdara Stop,31.595,74.36,bus_stop
+Badami Bagh Stop,31.568,74.32,bus_stop
+Yateem Khana Stop,31.55,74.34,bus_stop
+Ichra Stop,31.522,74.31,bus_stop
+Qainchi Stop,31.495,74.325,bus_stop
+Baghban Pura Stop,31.585,74.35,bus_stop
+Hanjarwal Stop,31.46,74.38,bus_stop
+Township Stop,31.47,74.28,bus_stop
+Sabzazar Stop,31.54,74.29,bus_stop
+Punjab University,31.5121,74.3541,university
+LUMS,31.4934,74.4088,university
+UET Lahore,31.5204,74.3076,university
+COMSATS Lahore,31.5497,74.3436,university
+Kinnaird College,31.535,74.337,university
+Lahore College for Women,31.5275,74.3189,university
+GCU Lahore,31.558,74.312,university
+Forman Christian College,31.548,74.339,university
+Liberty Market,31.5204,74.3587,shop
+Packages Mall,31.47,74.4,shop
+Emporium Mall,31.465,74.29,shop
+MM Alam Road Shops,31.5175,74.352,shop
+Anarkali Bazaar,31.5546,74.3572,shop
+Hafeez Centre,31.51,74.345,shop
+Defence Raya,31.46,74.42,shop
